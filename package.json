@@ -1,0 +1,26 @@
+{
+  "name": "go-dispatch-proxy-gui",
+  "version": "1.0.0",
+  "description": "A simple GUI for Go Dispatch Proxy",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/HoAnTrieu/go-dispatch-proxy-GUI-remix",
+  "keywords": [
+    "go",
+    "dispatch",
+    "proxy",
+    "GUI"
+  ],
+  "author": "HAT",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.0.0",
+    "electron-packager": "^17.1.2",
+    "electron-reload": "^1.5.0"
+  },
+  "dependencies": {
+    "vue": "^3.5.30"
+  }
+}
